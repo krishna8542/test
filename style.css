@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+.main-container{
+    width: 100%;
+    padding: 0.5rem 2rem;
+}
+.common-color{
+    background-color: #999;
+}
+.white{
+    background-color: #fff; 
+}
+
+.box{
+    height: 5.5rem;
+}
+.header{
+    width: 100%;
+}
+
+.text-content{
+    width: 50%;
+    margin: 4rem auto;
+}
+.contents,.item-contents{
+    height: 40rem;
+}
+.box1{
+    width: 50%;
+    float: left;
+}
+.box2{
+   width: 49%;
+   float: right;
+}
+
+.heading-one{
+    margin-top: 4rem;
+    width: 60%;
+}
+.box-container-one{
+    margin-top: 20px;
+    text-align: center;
+}
+.box-style{
+    display: inline-block;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    height: 20rem;
+    width: 20%;
+}
+.heading-two{
+    margin-top: 2rem;
+    width: 70%;
+}
+.box-container-two{
+    width: 100%;
+    height: 60rem;
+    text-align:justify;
+}
+.box-contents-one{
+    float: left;
+}
+.box-contents-two{
+    float: right;
+}
+.inner-box-one{
+    height: 5rem;
+}
+.inner-box-two{
+    margin-top: 2rem;
+    height: 13.5rem;
+}
+.box-contents{
+    padding: 2rem;
+    margin-top: 10rem;
+    margin-left: 7.5rem;
+    width: 25%;
+    height: 40rem;
+    background-color: #fff;
+    display: inline-block;
+}
+.heading-three{
+    width: 25%;
+}
+.container-contents{
+    margin: 1rem auto;
+    width: 40%;
+}
+.heading-four{
+    margin-top: 1rem;
+    width: 100%;
+}
+.box-container-contents{
+    height: 20rem;
+    width: 100%;
+}
+.box-spacing{
+    width: 100%;
+    margin: 1rem auto;
+}
+.content1{
+    width: 50%;
+}
+.content2{
+    width: 49%;
+}
+.footer-container{
+    margin-top: 11rem;
+    text-align: center;
+    padding: 3rem;
+    height: 25rem;
+}
+.footer-box1{
+   width: 49%;
+   height: 20rem;
+}
+.footer-box2{
+    width: 49%;
+    height: 20rem;
+}
